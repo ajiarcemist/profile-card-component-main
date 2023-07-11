@@ -53,8 +53,7 @@ content p{
 .footer{
     display:flex;
     justify-content: space-between;
-    border-top: 1px solid;
-    color: hsla(227, 10%, 46% 0.2);
+    border-top: 1px solid hsla(227, 10%, 46% 0.2);
     padding: 30px 50px;
     margin-top: 30px;
 }
