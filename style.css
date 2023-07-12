@@ -46,7 +46,7 @@ body{
     font-weight: 400;
 
 }
-content p{
+.content p{
     color: hsl(227, 10%, 46%);
     font-size: 13px;
 }
@@ -58,9 +58,9 @@ content p{
     margin-top: 30px;
 }
 
-.footer p.num{
+.footer p.num {
     font-size:18px;
-    color: hsl(227, 10%, 46%);
+    color:  hsl(229, 23%, 23%);
     font-weight: 700;
     margin-bottom: 5px; 
 }
